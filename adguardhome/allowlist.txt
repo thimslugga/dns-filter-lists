@@ -1,0 +1,190 @@
+### BEGIN
+
+### Hardware ###
+
+## Ubiquiti UniFi
+trace.svc.ui.com
+
+## Canon Printer Firmware Updates
+gdlp01.c-wss.com
+
+
+### Productivity ###
+
+## Microsoft
+www.msftncsi.com
+www.msftconnecttest.com
+msftncsi.com
+www.msftncsi.com
+ipv6.msftncsi.com
+g.live.com
+outlook.office365.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+msedge.api.cdp.microsoft.com
+clientconfig.passport.net
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+client-s.gateway.messenger.live.com
+officeclient.microsoft.com
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com
+ui.skype.com pricelist.skype.com
+apps.skype.com m.hotmail.com
+sa.symcb.com
+s1.symcb.com
+s2.symcb.com
+s3.symcb.com
+s4.symcb.com
+s5.symcb.com
+
+## Microsoft Windows Updates
+browser.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
+nexusrules.officeapps.live.com
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+watson.telemetry.microsoft.com
+
+## Microsoft Office 365
+outlook.office.com
+*.outlook.office.com
+outlook.office365.com
+*.outlook.office.com
+smtp.office365.com
+r1.res.office365.com
+r3.res.office365.com
+r4.res.office365.com
+*.outlook.com
+*.outlook.office.com
+attachments.office.net
+*.protection.outlook.com
+*.mail.protection.outlook.com
+storage.live.com
+admin.onedrive.com
+officeclient.microsoft.com
+*.sharepointonline.com
+cdn.sharepointonline.com
+privatecdn.sharepointonline.com
+publiccdn.sharepointonline.com
+spoprod-a.akamaihd.net
+static.sharepointonline.com
+teams.microsoft.com
+*.lync.com
+*.teams.microsoft.com
+broadcast.skype.com
+*.broadcast.skype.com
+*.sfbassets.com
+*.urlp.sfbassets.com
+skypemaprdsitus.trafficmanager.net
+*.keydelivery.mediaservices.windows.net
+*.msecnd.net
+*.streaming.mediaservices.windows.net
+ajax.aspnetcdn.com
+mlccdn.blob.core.windows.net
+aka.ms
+amp.azure.net
+*.users.storage.live.com
+*.skypeforbusiness.com
+*.msedge.net
+compass-ssl.microsoft.com
+*.tenor.com
+*.skype.com
+ajax.aspnetcdn.com
+r3.res.outlook.com
+spoprod-a.akamaihd.net
+*.api.microsoftstream.com
+*.notification.api.microsoftstream.com
+api.microsoftstream.com
+web.microsoftstream.com
+*.azureedge.net
+*.media.azure.net
+*.officeapps.live.com
+*.online.office.com
+office.live.com
+*.onenote.com
+*.office.net
+*cdn.onenote.net
+*.msftidentity.com
+*.msidentity.com
+account.activedirectory.windowsazure.com
+accounts.accesscontrol.windows.net
+adminwebservice.microsoftonline.com
+api.passwordreset.microsoftonline.com
+autologon.microsoftazuread-sso.com
+becws.microsoftonline.com
+clientconfig.microsoftonline-p.net
+companymanager.microsoftonline.com
+device.login.microsoftonline.com
+graph.microsoft.com
+graph.windows.net
+login.microsoft.com
+login.microsoftonline.com
+login.microsoftonline-p.com
+login.windows.net
+logincert.microsoftonline.com
+loginex.microsoftonline.com
+login-us.microsoftonline.com
+nexus.microsoftonline-p.com
+passwordreset.microsoftonline.com
+provisioningapi.microsoftonline.com
+logincdn.msauth.net
+main.iam.ad.ext.azure.com
+*.manage.office.com
+*.protection.office.com
+manage.office.com
+protection.office.com
+*.portal.cloudappsecurity.com
+account.office.net
+admin.microsoft.com
+home.office.com
+portal.office.com
+www.office.com
+suite.office.net
+mlccdn.blob.core.windows.net
+
+## Mozilla Firefox
+tracking-protection.cdn.mozilla.net
+
+## Dropbox
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+
+
+### Gaming ###
+
+## Nvidia Geforce
+gfwsl.geforce.com
+events.gfe.nvidia.com
+
+## EA Games
+# https://answers.ea.com/t5/Bug-Reports/EA-app-Malfunctioning-With-Pi-Hole-AdGuard-On-Network/m-p/13747810#M51645
+# https://www.reddit.com/r/pihole/comments/11rd337/comment/l5a6oke/
+sdk.split.io
+pin-river.data.ea.com
+checkout.ea.com
+rtm.tnt-ea.com
+beacons4.gvt2.com
+
+## Rockstar Games
+prod.telemetry.ros.rockstargames.com
+
+## Epic Game Store
+tracking.epicgames.com
+
+
+### END
