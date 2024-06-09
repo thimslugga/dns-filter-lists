@@ -11,6 +11,29 @@ gdlp01.c-wss.com
 
 ### Productivity ###
 
+## Apple
+# https://support.apple.com/en-us/101555
+apple.com
+apple.net
+cdn-apple.com
+icloud.com
+mzstatic.com
+vertexsmb.com
+appleschoolcontent.com
+apple-mapkit.com
+axm-usercontent-apple.com
+apple-dns.net
+itunes.com
+apple-cloudkit.com
+apple-livephotos.com
+icloud-content.com
+aaplimg.com
+apple.news
+
+## Google Play Store
+play.google.com
+play-lh.googleusercontent.com
+
 ## Microsoft
 www.msftncsi.com
 www.msftconnecttest.com
@@ -158,6 +181,8 @@ mlccdn.blob.core.windows.net
 
 ## Mozilla Firefox
 tracking-protection.cdn.mozilla.net
+# https://support.mozilla.org/en-US/questions/1331281
+redirector.gvt1.com
 
 ## Dropbox
 dl.dropboxusercontent.com
@@ -186,5 +211,7 @@ prod.telemetry.ros.rockstargames.com
 ## Epic Game Store
 tracking.epicgames.com
 
+## GOG
+insights-collector.gog.com
 
 ### END
