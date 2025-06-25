@@ -1,0 +1,32 @@
+# blocklist.txt
+
+### LG webOS TVs ###
+
+#cdpbeacon.lgtvcommon.com
+#cdpsvc.lgtvcommon.com
+#homeprv.lgtvcommon.com
+#nudge.lgtvcommon.com
+#rdl.lgtvcommon.com
+#recommend.lgtvcommon.com
+#lgsmartad.com
+
+# This will break Weather but blocks a lot of Ads.
+#service.lgtvcommon.com
+
+# https://gist.github.com/wassname/78eeaaad299dc4cddd04e372f20a9aa7
+#us.rdx2.lgtvsdp.com
+#us.info.lgsmartad.com
+#us.ibs.lgappstv.com
+#us.lgtvsdp.com
+#ad.lgappstv.com
+#smartshare.lgtvsdp.com
+#ibis.lgappstv.com
+
+#us.ad.lgsmartad.com
+#lgad.cjpowercast.com.edgesuite.net
+#ngfts.lge.com
+#yumenetworks.com
+#smartclip.net
+#smartclip.com
+
+avsxappcaptiveportal.com

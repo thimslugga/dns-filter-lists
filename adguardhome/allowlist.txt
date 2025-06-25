@@ -1,9 +1,11 @@
-### BEGIN
+# allowlist.txt
 
 ### Hardware ###
 
 ## Ubiquiti UniFi
 trace.svc.ui.com
+ping.ui.com
+ui.com
 
 ## Canon Printer Firmware Updates
 gdlp01.c-wss.com
@@ -213,5 +215,3 @@ tracking.epicgames.com
 
 ## GOG
 insights-collector.gog.com
-
-### END

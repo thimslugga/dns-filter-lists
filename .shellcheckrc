@@ -1,0 +1,5 @@
+# .shellcheckrc
+enable=all
+shell=bash
+color=always
+external-sources=true
