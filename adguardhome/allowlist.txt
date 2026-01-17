@@ -360,3 +360,19 @@ home.nest.com
 
 ## Samsung SmartThings
 *.smartthings.com
+
+## Home Assistant
+*.nabucasa.com
+*.home-assistant.io
+*.esphome.io
+
+## Roborock
+*.roborock.com
+
+## Ecobee
+*.ecobee.com
+
+## Honeywell Home
+*.honeywell.com
+*.mytotalconnectcomfort.com
+*.resideo.com
