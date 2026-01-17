@@ -215,3 +215,66 @@ tracking.epicgames.com
 
 ## GOG
 insights-collector.gog.com
+
+## Steam/Valve
+steampowered.com
+steamcommunity.com
+steamstatic.com
+steamcontent.com
+steam-chat.com
+steamusercontent.com
+steamgames.com
+
+## Discord
+discord.com
+discord.gg
+discordapp.com
+discord.media
+discordapp.net
+
+## Xbox/Microsoft Gaming
+xbox.com
+xboxlive.com
+xboxservices.com
+xboxab.com
+
+## PlayStation/Sony
+playstation.com
+playstation.net
+sonyentertainmentnetwork.com
+
+## Nintendo
+nintendo.com
+nintendo.net
+nintendowifi.net
+
+## Blizzard/Battle.net
+battle.net
+blizzard.com
+blz-contentstack.com
+
+## Ubisoft
+ubisoft.com
+ubi.com
+ubisoftconnect.com
+
+## Twitch
+twitch.tv
+twitchcdn.net
+jtvnw.net
+
+## Riot Games
+riotgames.com
+leagueoflegends.com
+playvalorant.com
+
+## Bungie
+bungie.net
+
+## Activision
+activision.com
+callofduty.com
+
+## Minecraft/Mojang
+minecraft.net
+mojang.com
