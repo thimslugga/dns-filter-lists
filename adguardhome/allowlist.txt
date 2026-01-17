@@ -11,6 +11,38 @@ ui.com
 gdlp01.c-wss.com
 
 
+### Network Infrastructure ###
+
+## Captive Portal Detection
+captive.apple.com
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+detectportal.firefox.com
+clients3.google.com
+
+## Certificate Validation (OCSP/CRL)
+ocsp.digicert.com
+ocsp.pki.goog
+crl.microsoft.com
+ocsp.usertrust.com
+ocsp.sectigo.com
+ocsp.verisign.net
+ocsp.entrust.net
+
+## Time Synchronization (NTP)
+time.google.com
+time.apple.com
+time.windows.com
+pool.ntp.org
+ntp.ubuntu.com
+
+## Push Notifications
+# Android FCM
+mtalk.google.com
+# Apple Push
+push.apple.com
+
+
 ### Productivity ###
 
 ## Apple
@@ -83,6 +115,12 @@ nexusrules.officeapps.live.com
 settings-win.data.microsoft.com
 v10.events.data.microsoft.com
 watson.telemetry.microsoft.com
+
+## Windows Defender
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+definitionupdates.microsoft.com
+go.microsoft.com
 
 ## Microsoft Office 365
 outlook.office.com
@@ -191,6 +229,17 @@ dl.dropboxusercontent.com
 ns1.dropbox.com
 ns2.dropbox.com
 
+## Zoom
+zoom.us
+*.zoom.us
+*.zoomgov.com
+
+## Slack
+slack.com
+*.slack.com
+slack-edge.com
+*.slack-edge.com
+
 
 ### Gaming ###
 
@@ -278,3 +327,36 @@ callofduty.com
 ## Minecraft/Mojang
 minecraft.net
 mojang.com
+
+
+### Streaming ###
+
+## Spotify
+api.spotify.com
+spclient.wg.spotify.com
+apresolve.spotify.com
+dealer.spotify.com
+
+## Netflix
+*.netflix.com
+*.nflxvideo.net
+
+## YouTube
+*.youtube.com
+*.googlevideo.com
+*.ytimg.com
+
+
+### Smart Home ###
+
+## Amazon Alexa
+*.amazon.com
+*.amazonalexa.com
+pindorama.amazon.com
+
+## Google Home/Nest
+home.nest.com
+*.nest.com
+
+## Samsung SmartThings
+*.smartthings.com
